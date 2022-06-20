@@ -1,0 +1,25 @@
+
+
+--------------------------------------------------------------------------------------------
+In PyCharm:
+
+py SchiffeVersenken/spielen.py -x 13 -y 13
+
+
+
+In CMD:
+
+SchiffeVersenken/spielen.py -x 13 -y 13
+
+PycharmProjects\SchiffeVersenken\spielen.py -x 13 -y 13
+--------------------------------------------------------------------------------------------
+
+Das ist der Command um das Spiel im Terminal zu starten. :)
+
+
+
+
+Die Größe des Spielfeldes kann man selbst auswählen,
+Wir haben schönheitshalber 13 Kacheln auf beiden Seiten als Beispiel ausgewählt.
+
+

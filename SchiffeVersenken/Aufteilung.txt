@@ -1,0 +1,76 @@
+spielen.py /////////////////////
+
+import statements          ELIAS
+
+11-37                      BILAL
+(terminal clear
++ key_getch)
+
+GameKlasse:
+	40-108 (Georgi)        GEORGI
+	110-179 (Bilal)        BILAL
+	181-230 (Anissa)       ANISSA
+	231-260 (Anissa)       ANISSA
+
+
+Player                     ANISSA
+
+Multiplayergame (IPC):
+Anfangsding                ELIAS
+Player 1 + 2               BILAL
+
+Main (Anfang IPC)          GEORGI
+
+--------------------------------
+
+structures.py //////////////////
+
+Anfang - 54 (Squares)       BILAL
+56 - 103 (Ocean)            ELIAS
+106 - 194 (Ship)            GEORGI
+197 - 226 (Klassen)         ANISSA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vor game klasse
+13 locker
+
+GAME KLASSE:
+
+
+(import)
+
+alles davor und 48
+
+79 94 111
+
+176 233 249
+
+13
+
+
+Player Klasse:
+
+270(konstru)
+
+
+MultiplayerGAME Klasse:
+
+Mainklasse
+
+
+-------------------------------
