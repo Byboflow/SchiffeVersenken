@@ -9,11 +9,11 @@ import statements          ELIAS
 GameKlasse:
 	40-108 (Georgi)        GEORGI
 	110-179 (Bilal)        BILAL
-	181-230 (Anissa)       ANISSA
-	231-260 (Anissa)       ANISSA
+	181-230 (Anissa)       ANISSA	unklar
+	231-260 (Anissa)       ANISSA	unklar
 
 
-Player                     ANISSA
+Player                     ANISSA	unklar
 
 Multiplayergame (IPC):
 Anfangsding                ELIAS
